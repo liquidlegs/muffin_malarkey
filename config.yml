@@ -1,0 +1,6 @@
+feature:
+  virus_total: True
+  alien_vault: True
+  threat_fox: True
+  debug: False
+  regex: False
