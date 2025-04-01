@@ -1,6 +1,10 @@
-feature:
-  virus_total: True
-  alien_vault: True
-  threat_fox: True
-  debug: False
-  regex: False
+api_features:
+  alien_vault: false
+  threat_fox: false
+  virus_total: true
+debug: false
+keys:
+  alien_vault: OTX_KEY
+  threat_fox: TFX_KEY
+  virus_total: VT_KEY
+regex: false
